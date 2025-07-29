@@ -20,7 +20,7 @@ A full-stack food delivery application that connects customers with their favori
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/yummy-express-delivery.git
+git clone https://github.com/prat555/Food-Delivery-Website
 ```
 
 2. Install dependencies
