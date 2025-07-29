@@ -7,7 +7,6 @@ A full-stack food delivery application that connects customers with their favori
 - User authentication and authorization
 - Restaurant listings and menu management
 - Real-time order tracking
-- Secure payment integration
 - User-friendly interface for customers and restaurants
 
 ## Tech Stack
