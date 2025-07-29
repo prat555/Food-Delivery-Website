@@ -15,9 +15,6 @@ A full-stack food delivery application that connects customers with their favori
 - Frontend: React.js
 - Backend: Node.js & Express.js
 - Database: Supabase
-- Authentication: JWT
-- Payment: Stripe Integration
-- Real-time updates: Socket.io
 
 ## Getting Started
 
