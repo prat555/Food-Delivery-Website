@@ -11,7 +11,7 @@ const Header = () => {
             <div className="w-10 h-10 bg-hero-gradient rounded-full flex items-center justify-center">
               <span className="text-white font-bold text-xl">F</span>
             </div>
-            <span className="text-2xl font-bold text-foreground">FoodieExpress</span>
+            <span className="text-2xl font-bold text-foreground">FoodApp</span>
           </div>
           
           {/* Navigation */}
