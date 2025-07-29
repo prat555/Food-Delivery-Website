@@ -28,7 +28,7 @@ git clone https://github.com/yourusername/yummy-express-delivery.git
 
 2. Install dependencies
 ```bash
-cd yummy-express-delivery
+cd Food-Delivery-Website
 npm install
 ```
 
