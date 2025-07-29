@@ -1,6 +1,7 @@
 # Food Delivery Website Template
 
-A full-stack food delivery application that connects customers with their favorite restaurants and local food establishments. This repository contains a **sample website template** demonstrating the UI/UX for my full-featured Food Delivery Application. The complete working app with all functionality is available in the main repository: **[Food Delivery App](https://github.com/prat555/Food-Delivery-App)**
+A full-stack food delivery application that connects customers with their favorite restaurants and local food establishments. This repository contains a **sample website template** demonstrating the UI/UX for my full-featured Food Delivery Application. 
+The complete working app with all functionality is available in the main repository: **[Food Delivery App](https://github.com/prat555/Food-Delivery-App)**
 
 
 ## Features
