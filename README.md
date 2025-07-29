@@ -1,4 +1,4 @@
-# Food Delivery
+# Food Delivery Website Template
 
 A full-stack food delivery application that connects customers with their favorite restaurants and local food establishments.
 
