@@ -13,7 +13,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-hero-gradient rounded-full flex items-center justify-center">
                 <span className="text-white font-bold">F</span>
               </div>
-              <span className="text-xl font-bold">FoodieExpress</span>
+              <span className="text-xl font-bold">FoodieApp</span>
             </div>
             <p className="text-background/80 leading-relaxed">
               Delivering delicious food from your favorite restaurants to your doorstep, fast and fresh.
@@ -73,7 +73,7 @@ const Footer = () => {
         
         <div className="border-t border-background/20 mt-12 pt-8 text-center">
           <p className="text-background/60">
-            © 2024 FoodieExpress. All rights reserved.
+            © 2024 FoodieApp. All rights reserved.
           </p>
         </div>
       </div>
